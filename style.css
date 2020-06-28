@@ -1,0 +1,228 @@
+body { 
+margin:0;
+font-family: "Montsserrat";
+} 
+
+html {
+background-image: url('images/1.jpg'); 
+background-attachment: fixed;  }
+
+<title> {  }
+.header_logo {
+transition: .2s linear;
+text-decoration: none;
+width: 300px;
+border-radius: 15px;
+margin: 0 auto;
+text-align: center;  
+font-size: 35px;        }
+a:hover {color:cyan;    }
+
+a {color: white}
+
+.header 
+{	width: 100%;
+	position: absolute;
+	z-index: 1000;			}
+
+.header_inner {
+display: flex;
+justify-content: space-between;	
+}
+
+.nav 	
+{margin-left: 600px;
+	text-decoration: uppercase;
+font-size: 20px;
+background color: white;
+align-items: center;    		 }
+
+.nav_link 
+{text-decoration: none;
+display: inline-block;
+vertical-align: top; 			}
+
+.nav_link:hover  
+{color:#BA55D3;
+transition: .3s leaner; }
+
+#nachallo
+{ width:  1000px;
+outline: 3px solid yellow;	
+padding: 0;
+margin: auto; 
+margin-right: auto;
+font-size: 20px;     }
+
+.leftimg {
+	float:left; 
+	margin: 5px 5px 5px 5px; 	}
+
+.verxyxa 
+{background: black; 
+color: white; 
+text-align: center;
+font-size: 25px;
+width: 430px;          
+margin-left: 5px;              }
+
+.adundvatru 
+{text-indent:110px;
+	background: #C0C0C0C0;  
+	color: black;  
+	margin: 5px;
+	padding: 5px;
+	text-align: justify;       }
+
+#kontentposhel {
+width:  1000px;
+outline: 3px solid cyan	;	
+padding: 0;
+margin: auto; 
+margin-right: auto;
+font-size: 20px;    
+}
+
+.venecuia	{
+background: black; 
+color: white; 
+text-align: center;
+font-size: 25px;
+width: 430px;          
+margin-left: 5px;       }
+
+.textvenecuia 			{
+text-indent:110px;
+	background: #C0C0C0C0;  
+	color: black;  
+	margin: 5px;
+	padding: 5px;
+	text-align: justify;       }
+
+.rightimg {
+	float:left; 
+	margin: 5px 5px 5px 5px;
+	width: 250px;
+	height: auto; 				}
+
+#obrazovanie			{
+width:  1000px;
+outline: 3px solid orange	;	
+padding: 0;
+margin: auto; 
+margin-right: auto;
+font-size: 20px; 					}
+
+.zizn	{
+background: black; 
+color: white; 
+text-align: center;
+font-size: 25px;
+width: 430px;          
+margin-left: 5px;       			}
+
+.textzizn 			{
+text-indent:110px;
+	background: #C0C0C0C0;  
+	color: black;  
+	margin: 5px;
+	padding: 5px;
+	text-align: justify;       			}		 
+
+/* это третья лаба - Шахматы */
+
+#shahmatu{
+width:  1000px;
+outline: 3px solid cyan	;	
+padding: 0;
+margin: auto; 
+margin-right: auto;
+font-size: 20px; 
+padding: auto;   					}
+
+.zagolovokshahmatu {
+	background: black; 
+color: white; 
+text-align: center;
+font-size: 25px;
+width: 430px;          
+margin-left: 5px; 						}
+
+{   padding: 1;
+	margin: 1;							}
+
+body {
+	background: #2A120A;				}
+h1 {
+	text-align: center;
+	color: white;
+										}
+.wrapper {
+	width: 1200px
+	height: 1200px;
+	padding: 20px 20px;
+	background: justify;
+										}
+.chessboard {
+	width: 840px;
+	height: 840px;
+	margin: 0 auto;
+	border: 15px solid #2A120A;
+	border-radius: 4%;
+	background-color: #BDBDBD;
+										}
+
+.size {
+	width: 100px;
+	height: 100px;
+										}
+
+.black {
+	background: #0f0f0f;
+										}
+.white {
+	background: #ffffffff;
+										}
+
+.letter {
+	width: 100px;
+	height: 20px;
+	text-align: center;
+										}
+
+.digit {
+	width: 20px;
+	height: 100px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+										}
+
+.col {
+	display: inline-block;
+	float: left;
+										}
+
+.mt20 {
+	margin-top: 20px;
+										}
+
+.rotate {
+	transform: rotate(180deg); 			}
+
+.size img {
+	width: 100%;
+	height: 100%; }
+
+
+.konects	{
+	width: 100%;
+	height: 100px;
+background-color: black| transparent
+}									
+
+
+
+</body>
+</html>
